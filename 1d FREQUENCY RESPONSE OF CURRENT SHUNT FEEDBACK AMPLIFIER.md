@@ -9,17 +9,23 @@
 # Circuit Diagram 
 # Without Feedback:
 <img width="699" height="528" alt="image" src="https://github.com/user-attachments/assets/3309ec67-7bbe-42aa-9ba7-69ebfcca687e" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/a58a1ef4-0781-4a08-a756-857bd4e6e39b" />
 
 # With Feedback:
 <img width="787" height="613" alt="image" src="https://github.com/user-attachments/assets/ce6df7b4-b76c-4d4a-b54d-f49f67a6edc8" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/3783b4ce-7910-4c50-8a38-09607e7ce063" />
 
 # Tabulation
+<img width="1280" height="1077" alt="image" src="https://github.com/user-attachments/assets/254133b3-8739-4d30-a602-5e0a0bd989a2" />
+
 
 
 # Graph
+<img width="1280" height="935" alt="image" src="https://github.com/user-attachments/assets/699ae803-9c19-466d-a477-5d25edbc6192" />
 
 
-# Sample images 
+
+
 
 
 ### **Result**
