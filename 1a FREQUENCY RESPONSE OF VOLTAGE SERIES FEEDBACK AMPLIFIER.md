@@ -13,12 +13,20 @@
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
 ## Tabulation
+<img width="801" height="1094" alt="image" src="https://github.com/user-attachments/assets/804ebd68-340b-4696-9f24-f39693141017" />
+
 
 
 ## Graph
+<img width="860" height="1101" alt="image" src="https://github.com/user-attachments/assets/94f9c216-ed55-4985-9158-176d5a1aadab" />
 
 
 ## Sample images 
+<img width="805" height="1218" alt="image" src="https://github.com/user-attachments/assets/789c7acd-1297-46fc-8eb5-db4e3b4c2996" />
+<img width="1207" height="1280" alt="image" src="https://github.com/user-attachments/assets/3b837b24-330e-4dd8-80e0-0e4d52789073" />
+<img width="461" height="917" alt="image" src="https://github.com/user-attachments/assets/02ed3ebf-07f9-475e-bc69-ef19e0d6f682" />
+
+
 
 
 ## **Result**
